@@ -38,6 +38,7 @@
  <!-- foto -->
     <img src="assets/img/denise_carvalho.jpeg" alt="Denise Carvalho" width="200px" style="border-radius: 50%; margin-bottom: 15px;"/><br>
     <!-- about -->
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1200&color=7b51a6&center=true&vCenter=true&multiline=true&width=1200&height=90&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas%2C+buscando+novos+conhecimentos+e+habilidades;apaixonada+por+tecnologia%2C+fazendo+o+que+posso+para+me+tornar+uma+;profissional+mais+capacitada+na+%C3%A1rea."  />
     
 <br>
 <!-- github -->
@@ -55,6 +56,7 @@
  <!-- foto -->
     <img src="assets/img/gisely_meneses_de_oliveira.jpg" alt="Gisely Meneses de Oliveira" width="200px" style="border-radius: 50%; margin-bottom: 15px;"/><br>
     <!-- about -->
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1200&color=7B51A6&center=true&vCenter=true&multiline=true&width=1200&height=90&lines=Sou+uma+Analista+de+Requisitos+apaixonada+pela+minha+fam%C3%ADlia%2C+por+tecnologia+e+inova%C3%A7%C3%A3o;+e+conta+banc%C3%A1ria+com+grana.+Minha+jornada+profissional+tem+sido+marcada+por+uma+busca+constante;+por+aprender+e+contribuir+para+projetos%C2%A0emocionantes."  />
     
 <br>
 <!-- github -->
@@ -72,6 +74,7 @@
  <!-- foto -->
     <img src="assets/img/grazielly_anastacio_da_cunha.jpg" alt="Grazielly Anastacio da Cunha" width="200px" style="border-radius: 50%; margin-bottom: 15px;"/><br>
     <!-- about -->
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1200&color=7B51A6&center=true&vCenter=true&multiline=true&width=1200&height=90&lines=Apaixonada+por+Java+e+Javascript%2C+aprendiz+de+Flutter+%7C+Dart+%7C+PHP+%7C+Oracle"  />
     
 <br>
 <!-- github -->
@@ -89,6 +92,7 @@
  <!-- foto -->
     <img src="assets/img/josielly_tomas_da_fonseca_macedo.jpg" alt="Josielly Tomas da Fonseca Macedo" width="200px" style="border-radius: 50%; margin-bottom: 15px;"/><br>
     <!-- about -->
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1200&color=7B51A6&center=true&vCenter=true&multiline=true&width=1200&height=90&lines=Graduada+em+Administra%C3%A7%C3%A3o+P%C3%BAblica%2C+Analista+Financeira%2C+apaixonada+;por+tecnologia%2C+filmes%2C+livros+e+s%C3%A9ries.+"  />
     
 <br>
 <!-- github -->
@@ -213,5 +217,3 @@
 <!-- github -->
     <a href="https://github.com/samuelylaurentino" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
-
-
