@@ -162,3 +162,56 @@
 <!-- github -->
     <a href="https://github.com/monicacosta-dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
+
+---
+
+<!-- Paulini Duarte Marinho Gomes -->
+
+<p align="center">
+<!-- nome -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=E4D5F2&center=true&vCenter=true&multiline=true&width=450&lines=Paulini+Duarte+Marinho+Gomes" />
+ <br>
+ <!-- foto -->
+    <img src="assets/img/paulini_duarte_marinho_gomes.jpg" alt="Paulini Duarte Marinho Gomes" width="200px" style="border-radius: 50%; margin-bottom: 15px;"/><br>
+    <!-- about -->
+    
+<br>
+<!-- github -->
+    <a href="https://github.com/Paulini86" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+---
+
+<!-- Renata Rodrigues Antonio Ribeiro -->
+
+<p align="center">
+<!-- nome -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=E4D5F2&center=true&vCenter=true&multiline=true&width=450&lines=Renata+Rodrigues+Antonio+Ribeiro+"  />
+ <br>
+ <!-- foto -->
+    <img src="assets/img/renata_rodrigues_antonio_ribeiro.jpg" alt="Renata Rodrigues Antonio Ribeiro " width="200px" style="border-radius: 50%; margin-bottom: 15px;"/><br>
+    <!-- about -->
+    
+<br>
+<!-- github -->
+    <a href="https://github.com/Re-na6ta" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+---
+
+<!-- Samuelly Laurentino -->
+
+<p align="center">
+<!-- nome -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=E4D5F2&center=true&vCenter=true&multiline=true&width=450&lines=Samuelly+Laurentino+" />
+ <br>
+ <!-- foto -->
+    <img src="assets/img/samuely_laurentino.jpg" alt="Samuelly Laurentino" width="200px" style="border-radius: 50%; margin-bottom: 15px;"/><br>
+    <!-- about -->
+    
+<br>
+<!-- github -->
+    <a href="https://github.com/samuelylaurentino" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+
