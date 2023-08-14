@@ -128,3 +128,37 @@
 <!-- github -->
     <a href="https://github.com/kvduarte" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
+
+---
+
+<!-- Mellina Frigoletto -->
+
+<p align="center">
+<!-- nome -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=E4D5F2&center=true&vCenter=true&multiline=true&width=450&lines=Mellina+Frigoletto"  />
+ <br>
+ <!-- foto -->
+    <img src="assets/img/mellina_frigoletto.jpg" alt="Mellina Frigoletto" width="200px" style="border-radius: 50%; margin-bottom: 15px;"/><br>
+    <!-- about -->
+    
+<br>
+<!-- github -->
+    <a href="https://github.com/mellfrigoletto" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+---
+
+<!-- Monica Costa -->
+
+<p align="center">
+<!-- nome -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=E4D5F2&center=true&vCenter=true&multiline=true&width=450&lines=Monica+Costa" />
+ <br>
+ <!-- foto -->
+    <img src="assets/img/monica_costa.jpg" alt="Monica Costa" width="200px" style="border-radius: 50%; margin-bottom: 15px;"/><br>
+    <!-- about -->
+    
+<br>
+<!-- github -->
+    <a href="https://github.com/monicacosta-dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
