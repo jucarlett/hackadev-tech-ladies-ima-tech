@@ -146,6 +146,7 @@
  <!-- foto -->
     <img src="assets/img/mellina_frigoletto.jpg" alt="Mellina Frigoletto" width="200px" style="border-radius: 50%; margin-bottom: 15px;"/><br>
     <!-- about -->
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1200&color=7B51A6&center=true&vCenter=true&multiline=true&width=1200&height=90&lines=Professora+de+ingl%C3%AAs+em+transi%C3%A7%C3%A3o+de+carreira+para+a+%C3%A1rea+de+tecnologia.+;Estou+sempre+em+busca+de+conhecimento+e+de+me+desafiar.+;Apaixonada+por+livros%2C+culin%C3%A1ria%2C+animais%2C+tecnologia+e+o+mundo+fitness." />
     
 <br>
 <!-- github -->
@@ -163,6 +164,7 @@
  <!-- foto -->
     <img src="assets/img/monica_costa.jpg" alt="Monica Costa" width="200px" style="border-radius: 50%; margin-bottom: 15px;"/><br>
     <!-- about -->
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1200&color=7B51A6&center=true&vCenter=true&multiline=true&width=1200&height=90&lines=Formada+em+An%C3%A1lise+de+Sistemas%2C+apaixonada+por+conhecimento+constante%2C+uma+entusiasta+por+DBA%2C+;em+transi%C3%A7%C3%A3o+de+carreira+para+Desenvolvimento+de+Software.+;Nesse+momento+em+Forma%C3%A7%C3%A3o+no+Projeto+Todas+Techs+com+abordagem+a+empregabilidade!"  />
     
 <br>
 <!-- github -->
@@ -180,6 +182,7 @@
  <!-- foto -->
     <img src="assets/img/paulini_duarte_marinho_gomes.jpg" alt="Paulini Duarte Marinho Gomes" width="200px" style="border-radius: 50%; margin-bottom: 15px;"/><br>
     <!-- about -->
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1200&color=7B51A6&center=true&vCenter=true&multiline=true&width=1200&height=90&lines=Sou+estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas%2C+atuando+como+Enfermeira+da+Aten%C3%A7%C3%A3o+B%C3%A1sica%2C+;Gestora+Ambiental+em+paralelo%2C+em+transi%C3%A7%C3%A3o+de+carreira+pra+Tecnologia.+;Nunca+%C3%A9+tarde+pra+descobrir+o+que+realmente+gosta!+Na+luta+por+conhecimento+e+aprendizado."  />
     
 <br>
 <!-- github -->
@@ -197,6 +200,7 @@
  <!-- foto -->
     <img src="assets/img/renata_rodrigues_antonio_ribeiro.jpg" alt="Renata Rodrigues Antonio Ribeiro " width="200px" style="border-radius: 50%; margin-bottom: 15px;"/><br>
     <!-- about -->
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1200&color=7B51A6&center=true&vCenter=true&multiline=true&width=1200&height=90&lines=Formada+em+An%C3%A1lise+e+Desenvolvimento+de+Sistemas%2C+sou+resiliente%2C+estou+em+transi%C3%A7%C3%A3o+de+carreira+;saindo+da+parte+t%C3%A9cnica+de+sa%C3%BAde+bucal+para+a+Tecnologia.+;Estou+cada+vez+mais+apaixonada+e+certa+da+minha+escolha.+"  />
     
 <br>
 <!-- github -->
@@ -214,10 +218,9 @@
  <!-- foto -->
     <img src="assets/img/samuely_laurentino.jpg" alt="Samuelly Laurentino" width="200px" style="border-radius: 50%; margin-bottom: 15px;"/><br>
     <!-- about -->
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1200&color=7B51A6&center=true&vCenter=true&multiline=true&width=1200&height=90&lines=Administradora+em+transi%C3%A7%C3%A3o+de+carreira%2C+de+Campina+Grande%C2%A0na%C2%A0Para%C3%ADba" />
     
 <br>
 <!-- github -->
     <a href="https://github.com/samuelylaurentino" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
-
-
