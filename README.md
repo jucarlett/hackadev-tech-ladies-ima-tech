@@ -67,7 +67,7 @@
 
 <p align="center">
 <!-- nome -->
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=E4D5F2&center=true&vCenter=true&multiline=true&lines=Gisely+Meneses+de+Oliveira"  />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=E4D5F2&center=true&vCenter=true&multiline=true&lines=Grazielly+Anastacio+da+Cunha" />
  <br>
  <!-- foto -->
     <img src="assets/img/grazielly_anastacio_da_cunha.jpg" alt="Grazielly Anastacio da Cunha" width="200px" style="border-radius: 50%; margin-bottom: 15px;"/><br>
