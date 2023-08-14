@@ -77,3 +77,54 @@
 <!-- github -->
     <a href="https://github.com/grazielly-ac" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
+
+---
+
+<!-- Josielly Tomas da Fonseca Macedo -->
+
+<p align="center">
+<!-- nome -->
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=E4D5F2&center=true&vCenter=true&multiline=true&lines=Josielly+Tomas+da+Fonseca+Macedo"  />
+ <br>
+ <!-- foto -->
+    <img src="assets/img/josielly_tomas_da_fonseca_macedo.jpg" alt="Josielly Tomas da Fonseca Macedo" width="200px" style="border-radius: 50%; margin-bottom: 15px;"/><br>
+    <!-- about -->
+    
+<br>
+<!-- github -->
+    <a href="https://github.com/JosiellyTomas" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+---
+
+<!-- Julie Carlett Veloso -->
+
+<p align="center">
+<!-- nome -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=E4D5F2&center=true&vCenter=true&multiline=true&lines=Julie+Carlett+Veloso"/>
+ <br>
+ <!-- foto -->
+    <img src="assets/img/julie_carlett_veloso.jpeg" alt="Julie Carlett Veloso" width="200px" style="border-radius: 50%; margin-bottom: 15px;"/><br>
+    <!-- about -->
+    
+<br>
+<!-- github -->
+    <a href="https://github.com/jucarlett" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+---
+
+<!-- Kamylle Vitoria Duarte de Oliveira -->
+
+<p align="center">
+<!-- nome -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=E4D5F2&center=true&vCenter=true&multiline=true&width=450&lines=Kamylle+Vitoria+Duarte+de+Oliveira" />
+ <br>
+ <!-- foto -->
+    <img src="assets/img/julie_carlett_veloso.jpeg" alt="Kamylle Vitoria Duarte de Oliveira" width="200px" style="border-radius: 50%; margin-bottom: 15px;"/><br>
+    <!-- about -->
+    
+<br>
+<!-- github -->
+    <a href="https://github.com/kvduarte" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
