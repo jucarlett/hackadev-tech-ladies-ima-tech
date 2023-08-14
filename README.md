@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=7B51A6&center=true&vCenter=true&multiline=true&width=1200&height=100&lines=Bem-vindos+ao+reposit%C3%B3rio+do+grupo+Tech+Ladies!+;Aqui%2C+12+mulheres+incr%C3%ADveis+unem+suas+for%C3%A7as+e+talentos+em+um+HackaDev+desafiador.+;Abaixo%2C+voc%C3%AA+pode+conhecer+cada+uma+de+n%C3%B3s+e+o+projeto+empolgante+em+que+estamos+trabalhando." alt="Typing SVG" /></a>
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=7B51A6&center=true&vCenter=true&multiline=true&width=1200&height=100&lines=Bem-vindos+ao+reposit%C3%B3rio+do+grupo+Tech+Ladies!+;Aqui%2C+12+mulheres+incr%C3%ADveis+unem+suas+for%C3%A7as+e+talentos+em+um+HackaDev+desafiador.+;Abaixo%2C+voc%C3%AA+pode+conhecer+cada+uma+de+n%C3%B3s+e+o+projeto+empolgante+em+que+estamos+trabalhando."  />
 </p>
 
 ## 🌷 Membros:
