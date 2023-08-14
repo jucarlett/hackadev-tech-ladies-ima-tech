@@ -110,6 +110,7 @@
  <!-- foto -->
     <img src="assets/img/julie_carlett_veloso.jpeg" alt="Julie Carlett Veloso" width="200px" style="border-radius: 50%; margin-bottom: 15px;"/><br>
     <!-- about -->
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1200&color=7B51A6&center=true&vCenter=true&multiline=true&width=1200&height=90&lines=Estudante+de+Engenharia+de+Software+e+desenvolvedora+de+software+apaixonada+;por+tecnologia+e+programa%C3%A7%C3%A3o%2C+buscando+conhecimento+e+evoluindo+a+cada+dia.+"  />
     
 <br>
 <!-- github -->
@@ -127,6 +128,7 @@
  <!-- foto -->
     <img src="assets/img/kamylle_vitoria_duarte_de_oliveira.jpg" alt="Kamylle Vitoria Duarte de Oliveira" width="200px" style="border-radius: 50%; margin-bottom: 15px;"/><br>
     <!-- about -->
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1200&color=7B51A6&center=true&vCenter=true&multiline=true&width=1200&height=90&lines=Cursando+Ci%C3%AAncias+da+Computa%C3%A7%C3%A3o.+Busco+cada+dia+mais+conhecimento+e+crescimento%2C+;pessoal+e+profissional.+Apaixonada+por+m%C3%BAsica%2C+leitura%2C+esportes+e+ligada+%C3%A0+tecnologia"  />
     
 <br>
 <!-- github -->
@@ -217,3 +219,5 @@
 <!-- github -->
     <a href="https://github.com/samuelylaurentino" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
+
+
