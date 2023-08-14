@@ -121,7 +121,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=E4D5F2&center=true&vCenter=true&multiline=true&width=450&lines=Kamylle+Vitoria+Duarte+de+Oliveira" />
  <br>
  <!-- foto -->
-    <img src="assets/img/julie_carlett_veloso.jpeg" alt="Kamylle Vitoria Duarte de Oliveira" width="200px" style="border-radius: 50%; margin-bottom: 15px;"/><br>
+    <img src="assets/img/kamylle_vitoria_duarte_de_oliveira.jpg" alt="Kamylle Vitoria Duarte de Oliveira" width="200px" style="border-radius: 50%; margin-bottom: 15px;"/><br>
     <!-- about -->
     
 <br>
