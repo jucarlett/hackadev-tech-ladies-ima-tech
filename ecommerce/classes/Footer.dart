@@ -13,9 +13,15 @@ class _FooterState extends State<Footer> {
   @override
   Widget build(BuildContext context){
     return const Scaffold(
-      bottomNavigationBar: GNav(
-        backgroundColor: Color(0x00e9e7fa),
-        gap: 8,
+  bottomNavigationBar: GNav(
+    duration: Duration(milliseconds: 100), // duração da transicação
+  gap: 8, // espaço entre o botão e o texto
+  color: Colors.grey, // cor do ícone sem ação
+  activeColor: Colors.white, // cor do texto  e botão ativados
+  iconSize: 24, // tamanho dos botões
+  tabBackgroundColor: Colors.purple, // cor de fundo do botão ativado
+  padding: EdgeInsets.symmetric(horizontal: 10, vertical: 10), // preenchimento da barra de navegação
+        
         tabs: [
           GButton(
             icon: Icons.home,
