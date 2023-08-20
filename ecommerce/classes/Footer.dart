@@ -21,17 +21,18 @@ class _FooterState extends State<Footer> {
   iconSize: 24, // tamanho dos botões
   tabBackgroundColor: Colors.purple, // cor de fundo do botão ativado
   padding: EdgeInsets.symmetric(horizontal: 10, vertical: 10), // preenchimento da barra de navegação
+  
         
         tabs: [
           GButton(
             icon: Icons.home,
-            text: "Início"),
+            text: "Início" ),
           GButton(
             icon: Icons.favorite,
             text: "Favoritos"),
           GButton(
-            icon: Icons.search,
-            text: "Explorar"),
+            icon: Icons.view_list,
+            text: "Categorias"),
           GButton(
             icon: Icons.person,
             text: "Perfil"),
