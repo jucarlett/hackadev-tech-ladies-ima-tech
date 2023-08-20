@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:teste01/Footer.dart';
+import 'package:ecommerce/Footer.dart';
 
 
 
